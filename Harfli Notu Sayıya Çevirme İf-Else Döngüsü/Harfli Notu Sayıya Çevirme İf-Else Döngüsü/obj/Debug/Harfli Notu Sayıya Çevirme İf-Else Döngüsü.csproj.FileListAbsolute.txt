@@ -1,0 +1,8 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\bin\Debug\Harfli Notu Sayıya Çevirme İf-Else Döngüsü.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\bin\Debug\Harfli Notu Sayıya Çevirme İf-Else Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\bin\Debug\Harfli Notu Sayıya Çevirme İf-Else Döngüsü.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\obj\Debug\Harfli_Notu_Sayıya_Çevirme_İf_Else_Döngüsü.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\obj\Debug\Harfli_Notu_Sayıya_Çevirme_İf_Else_Döngüsü.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\obj\Debug\Harfli Notu Sayıya Çevirme İf-Else Döngüsü.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\obj\Debug\Harfli Notu Sayıya Çevirme İf-Else Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\Harfli Notu Sayıya Çevirme İf-Else Döngüsü\obj\Debug\Harfli Notu Sayıya Çevirme İf-Else Döngüsü.pdb

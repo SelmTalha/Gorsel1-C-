@@ -1,0 +1,9 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\bin\Debug\İf - Else Kullanıcı Giriş.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\bin\Debug\İf - Else Kullanıcı Giriş.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\bin\Debug\İf - Else Kullanıcı Giriş.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\obj\Debug\İf___Else_Kullanıcı_Giriş.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\obj\Debug\İf___Else_Kullanıcı_Giriş.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\obj\Debug\İf - Else Kullanıcı Giriş.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\obj\Debug\İf - Else Kullanıcı Giriş.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\obj\Debug\İf - Else Kullanıcı Giriş.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\İf - Else Kullanıcı Giriş\İf - Else Kullanıcı Giriş\obj\Debug\İf___Else_Kullanıcı_Giriş.Form2.resources

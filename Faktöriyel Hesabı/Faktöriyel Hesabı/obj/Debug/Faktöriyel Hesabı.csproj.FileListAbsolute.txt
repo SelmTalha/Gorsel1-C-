@@ -1,0 +1,8 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\bin\Debug\Faktöriyel Hesabı.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\obj\Debug\Faktöriyel_Hesabı.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\obj\Debug\Faktöriyel_Hesabı.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\obj\Debug\Faktöriyel Hesabı.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\bin\Debug\Faktöriyel Hesabı.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\bin\Debug\Faktöriyel Hesabı.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\obj\Debug\Faktöriyel Hesabı.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Faktöriyel Hesabı\Faktöriyel Hesabı\obj\Debug\Faktöriyel Hesabı.pdb

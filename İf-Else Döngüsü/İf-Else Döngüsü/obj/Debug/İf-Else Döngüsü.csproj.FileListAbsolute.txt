@@ -1,0 +1,8 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\bin\Debug\İf-Else Döngüsü.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\bin\Debug\İf-Else Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\bin\Debug\İf-Else Döngüsü.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\obj\Debug\İf_Else_Döngüsü.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\obj\Debug\İf_Else_Döngüsü.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\obj\Debug\İf-Else Döngüsü.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\obj\Debug\İf-Else Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\İf-Else Döngüsü\İf-Else Döngüsü\obj\Debug\İf-Else Döngüsü.pdb

@@ -1,0 +1,9 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\bin\Debug\For Döngüsü.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\bin\Debug\For Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\bin\Debug\For Döngüsü.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.csprojResolveAssemblyReference.cache
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\obj\Debug\For_Döngüsü.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\obj\Debug\For_Döngüsü.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.pdb

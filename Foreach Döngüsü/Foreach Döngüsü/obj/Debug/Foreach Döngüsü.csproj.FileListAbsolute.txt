@@ -1,0 +1,9 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\bin\Debug\Foreach Döngüsü.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\bin\Debug\Foreach Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\bin\Debug\Foreach Döngüsü.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.csprojResolveAssemblyReference.cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach_Döngüsü.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach_Döngüsü.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Foreach Döngüsü\Foreach Döngüsü\obj\Debug\Foreach Döngüsü.pdb

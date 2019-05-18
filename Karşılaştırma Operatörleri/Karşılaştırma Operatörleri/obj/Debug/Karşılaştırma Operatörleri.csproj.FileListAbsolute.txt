@@ -1,0 +1,9 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\bin\Debug\Karşılaştırma Operatörleri.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\bin\Debug\Karşılaştırma Operatörleri.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\bin\Debug\Karşılaştırma Operatörleri.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\obj\Debug\Karşılaştırma Operatörleri.csprojResolveAssemblyReference.cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\obj\Debug\Karşılaştırma_Operatörleri.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\obj\Debug\Karşılaştırma_Operatörleri.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\obj\Debug\Karşılaştırma Operatörleri.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\obj\Debug\Karşılaştırma Operatörleri.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Karşılaştırma Operatörleri\Karşılaştırma Operatörleri\obj\Debug\Karşılaştırma Operatörleri.pdb

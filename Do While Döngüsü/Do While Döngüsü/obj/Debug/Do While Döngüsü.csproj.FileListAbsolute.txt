@@ -1,0 +1,8 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\bin\Debug\Do While Döngüsü.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\obj\Debug\Do_While_Döngüsü.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\obj\Debug\Do_While_Döngüsü.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\obj\Debug\Do While Döngüsü.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\bin\Debug\Do While Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\bin\Debug\Do While Döngüsü.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\obj\Debug\Do While Döngüsü.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Do While Döngüsü\Do While Döngüsü\obj\Debug\Do While Döngüsü.pdb

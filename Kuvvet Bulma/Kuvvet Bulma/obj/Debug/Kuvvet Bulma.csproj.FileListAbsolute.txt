@@ -1,0 +1,8 @@
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\bin\Debug\Kuvvet Bulma.exe.config
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\bin\Debug\Kuvvet Bulma.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\bin\Debug\Kuvvet Bulma.pdb
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\obj\Debug\Kuvvet_Bulma.Form1.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\obj\Debug\Kuvvet_Bulma.Properties.Resources.resources
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\obj\Debug\Kuvvet Bulma.csproj.GenerateResource.Cache
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\obj\Debug\Kuvvet Bulma.exe
+C:\Users\Selim\Desktop\C# Çalışmaları\Kuvvet Bulma\Kuvvet Bulma\obj\Debug\Kuvvet Bulma.pdb
